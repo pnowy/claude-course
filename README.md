@@ -1,4 +1,4 @@
-# [Claude Code w pigułce — dla programistów i nie tylko](https://www.udemy.com/course/draft/7114909/?referralCode=61BDE20E46F94B0387A9)
+# [Claude Code w pigułce — dla programistów i nie tylko](https://www.udemy.com/course/claude-code-w-pigulce-dla-programistow-i-nie-tylko/?referralCode=61BDE20E46F94B0387A9)
 
 > Wersja 2026
 
@@ -6,7 +6,7 @@
 
 Hej,
 
-materiały tutaj zawarte dotyczą kursu ["Claude Code w pigułce — dla programistów i nie tylko dostępnego na Udemy"](https://www.udemy.com/course/draft/7114909/?referralCode=61BDE20E46F94B0387A9).
+materiały tutaj zawarte dotyczą kursu ["Claude Code w pigułce — dla programistów i nie tylko dostępnego na Udemy"](https://www.udemy.com/course/claude-code-w-pigulce-dla-programistow-i-nie-tylko/?referralCode=61BDE20E46F94B0387A9).
 
 Projekt starter: [claude-course-tanstack-starter](https://github.com/pnowy/claude-course-tanstack-starter)
 
