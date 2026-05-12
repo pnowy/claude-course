@@ -20,3 +20,9 @@ Please review current code for design and security in the same time. Generate su
 Run agent team to review code for design and security
 ---
 You are devops expert. Create GitHub action to run the tests of current project. The tests should run for each merge request and main branch. You can add also other ci suggested stages.
+---
+Please add button to generate fully random category color when adding new category
+---
+In the expense table add simple toggle that allows group expenses list by category
+---
+Please init worktree project, install dependencies and setup database, add some example initial data, run the server

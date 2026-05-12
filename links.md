@@ -35,6 +35,7 @@
 - [Documentation: Claude Code Settings](https://docs.anthropic.com/en/docs/claude-code/settings) - full list of configuration options
 - [Documentation: Permissions](https://docs.anthropic.com/en/docs/claude-code/settings#permissions) - allow/deny lists
 - [Documentation: Sandboxing](https://code.claude.com/docs/en/sandboxing) - sandboxing information
+- [Documentation: Worktrees](https://code.claude.com/docs/en/worktrees#copy-gitignored-files-into-worktrees) - copying gitignored files into worktrees
 
 # CLAUDE.md and memory
 
