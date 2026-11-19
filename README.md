@@ -8,7 +8,7 @@ Hey,
 
 the materials here are related to the course ["Claude Code in a nutshell - for programmers and beyond, available on Udemy (EN)"](https://www.udemy.com/course/claude-code-in-a-nutshell-for-programmers-and-beyond/?referralCode=9697CDDD6A3C3CB14B38).
 
-Starter project: [claude-course-tanstack-starter](https://github.com/pnowy/claude-course-tanstack-starter)
+Starter project: [starter](./starter)
 
 Project with changes: [claude-course-home-budget](https://github.com/pnowy/claude-course-home-budget)
 
@@ -36,7 +36,7 @@ Hej,
 
 materiały tutaj zawarte dotyczą kursu ["Claude Code w pigułce — dla programistów i nie tylko dostępnego na Udemy (PL)"](https://www.udemy.com/course/claude-code-w-pigulce-dla-programistow-i-nie-tylko/?referralCode=61BDE20E46F94B0387A9).
 
-Projekt starter: [claude-course-tanstack-starter](https://github.com/pnowy/claude-course-tanstack-starter)
+Projekt starter: [starter](./starter)
 
 Projekt ze zmianami: [claude-course-home-budget](https://github.com/pnowy/claude-course-home-budget)
 
