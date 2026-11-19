@@ -3,7 +3,7 @@
 ## GitHub Projects Used in the Course
 
 - [Course information](https://github.com/pnowy/claude-course)
-- [Starter project](https://github.com/pnowy/claude-course/tree/main/starter)
+- [Starter project](https://github.com/pnowy/claude-course-tanstack-starter)
 - [Home Budget project](https://github.com/pnowy/claude-course-home-budget)
 
 ## Subscription and Access
