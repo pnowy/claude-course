@@ -9,11 +9,11 @@
 ## Subscription and Access
 
 - [Claude Pro / Max](https://claude.com/pricing) - Anthropic subscription plans / API pricing
-- [Anthropic Console (API Keys)](https://console.anthropic.com/settings/keys) - API key generation
+- [Claude Console (API Keys)](https://platform.claude.com/settings/keys) - API key generation
 
 ## Installation
 
-- [Official installation documentation](https://docs.anthropic.com/en/docs/claude-code/getting-started) - instructions for various systems
+- [Official installation documentation](https://code.claude.com/docs/en/getting-started) - instructions for various systems
 - [Homebrew (macOS)](https://brew.sh/) - package manager for macOS
 - [WinGet (Windows)](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - package manager for Windows
 - [Node.js](https://nodejs.org/) - required for JavaScript/TypeScript projects
@@ -28,12 +28,12 @@
 
 - [iTerm2 (macOS)](https://iterm2.com/) - advanced terminal for macOS
 - [Windows Terminal](https://aka.ms/terminal) - modern terminal for Windows
-- [Documentation: Using images in CLI](https://code.claude.com/docs/en/common-workflows#work-with-imagess) - pasting images (Ctrl+V on macOS)
+- [Documentation: Using images in CLI](https://code.claude.com/docs/en/common-workflows#work-with-images) - pasting images (Ctrl+V on macOS)
 
 ## Configuration
 
-- [Documentation: Claude Code Settings](https://docs.anthropic.com/en/docs/claude-code/settings) - full list of configuration options
-- [Documentation: Permissions](https://docs.anthropic.com/en/docs/claude-code/settings#permissions) - allow/deny lists
+- [Documentation: Claude Code Settings](https://code.claude.com/docs/en/settings) - full list of configuration options
+- [Documentation: Permissions](https://code.claude.com/docs/en/permissions) - allow/deny lists
 - [Documentation: Sandboxing](https://code.claude.com/docs/en/sandboxing) - sandboxing information
 - [Documentation: Worktrees](https://code.claude.com/docs/en/worktrees#copy-gitignored-files-into-worktrees) - copying gitignored files into worktrees
 
@@ -65,11 +65,11 @@
 
 ## Security Resources
 
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - top 10 web application security risks (referenced in security-reviewer subagent)
+- [OWASP Top 10](https://owasp.org/projects/top-ten) - top 10 web application security risks (referenced in security-reviewer subagent)
 
 ## Additional Resources
 
-- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code/overview) - official documentation
+- [Claude Code Documentation](https://code.claude.com/docs/en/overview) - official documentation
 - [GitHub: Claude Code](https://github.com/anthropics/claude-code) - Claude repository and bug reporting
 - [Anthropic Blog](https://www.anthropic.com/news) - news and new features
 
@@ -82,7 +82,7 @@
 
 ## Plugins and marketplace
 
-- [Browse plugins](https://claude.com/plugins) - browse plugins
+- [Browse plugins](https://claude.com/marketplace/plugins) - browse plugins
 - [Plugins documentation](https://code.claude.com/docs/en/discover-plugins) - plugins documentation
 - [DevOps Skills](https://github.com/akin-ozer/cc-devops-skills/tree/main) - devops skills used in project
-- [Obsidian Skills](https://github.com/kepano/obsidian-skills) - example external plugin marketplace
+- [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills) - example external plugin marketplace
